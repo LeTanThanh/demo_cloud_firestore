@@ -14,6 +14,7 @@ gem "jbuilder", "~> 2.5"
 gem "bootsnap", ">= 1.1.0", require: false
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "dotenv-rails"
+gem "ffaker"
 
 # use for Firebase Cloud Firestore
 gem "google-cloud-firestore"
